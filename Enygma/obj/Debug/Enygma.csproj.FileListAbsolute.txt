@@ -8,3 +8,13 @@ C:\Users\Jonatas\Desktop\Arquivos\Coding\C#\Enygmasln\Enygma\obj\Debug\Enygma.cs
 C:\Users\Jonatas\Desktop\Arquivos\Coding\C#\Enygmasln\Enygma\obj\Debug\Enygma.exe
 C:\Users\Jonatas\Desktop\Arquivos\Coding\C#\Enygmasln\Enygma\obj\Debug\Enygma.pdb
 C:\Users\Jonatas\Desktop\Arquivos\Coding\C#\Enygmasln\Enygma\obj\Debug\Enygma.Enygma.resources
+C:\Users\jonat\Desktop\Arquivos\Coding\C#\enygma-project\Enygma\bin\Debug\Enygma.exe.config
+C:\Users\jonat\Desktop\Arquivos\Coding\C#\enygma-project\Enygma\bin\Debug\Enygma.exe
+C:\Users\jonat\Desktop\Arquivos\Coding\C#\enygma-project\Enygma\bin\Debug\Enygma.pdb
+C:\Users\jonat\Desktop\Arquivos\Coding\C#\enygma-project\Enygma\obj\Debug\Enygma.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\Arquivos\Coding\C#\enygma-project\Enygma\obj\Debug\Enygma.Enygma.resources
+C:\Users\jonat\Desktop\Arquivos\Coding\C#\enygma-project\Enygma\obj\Debug\Enygma.Properties.Resources.resources
+C:\Users\jonat\Desktop\Arquivos\Coding\C#\enygma-project\Enygma\obj\Debug\Enygma.csproj.GenerateResource.cache
+C:\Users\jonat\Desktop\Arquivos\Coding\C#\enygma-project\Enygma\obj\Debug\Enygma.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Arquivos\Coding\C#\enygma-project\Enygma\obj\Debug\Enygma.exe
+C:\Users\jonat\Desktop\Arquivos\Coding\C#\enygma-project\Enygma\obj\Debug\Enygma.pdb
